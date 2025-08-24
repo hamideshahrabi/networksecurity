@@ -1,0 +1,13 @@
+prefix=/Users/hami/Downloads/Python1/Projects/network security/venv
+exec_prefix=/Users/hami/Downloads/Python1/Projects/network security/venv
+libdir=/Users/hami/Downloads/Python1/Projects/network security/venv/lib
+sharedlibdir=/Users/hami/Downloads/Python1/Projects/network security/venv/lib
+includedir=/Users/hami/Downloads/Python1/Projects/network security/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
