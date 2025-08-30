@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ef7c6889df534c94972dc2b8f4e75098/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef7c6889df534c94972dc2b8f4e75098
+run_name: marvelous-goose-991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756583271169
+status: 1
+tags: []
+user_id: krishnaik06

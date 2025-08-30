@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1c56e96d98aa4d2781e5fa906c6d5453/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c56e96d98aa4d2781e5fa906c6d5453
+run_name: aged-fish-294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756581309498
+status: 1
+tags: []
+user_id: krishnaik06

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d202020ec8454bab834f346c1dca76e4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d202020ec8454bab834f346c1dca76e4
+run_name: receptive-moth-390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756582021077
+status: 1
+tags: []
+user_id: krishnaik06

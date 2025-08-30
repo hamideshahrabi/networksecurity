@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/abd3171b4eaf429fb2f4df4f4ef5a8a8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abd3171b4eaf429fb2f4df4f4ef5a8a8
+run_name: worried-gnat-664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756583271169
+status: 1
+tags: []
+user_id: krishnaik06

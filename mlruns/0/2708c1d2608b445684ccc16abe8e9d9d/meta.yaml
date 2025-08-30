@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2708c1d2608b445684ccc16abe8e9d9d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2708c1d2608b445684ccc16abe8e9d9d
+run_name: resilient-bear-254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756581309498
+status: 1
+tags: []
+user_id: krishnaik06

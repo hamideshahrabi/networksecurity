@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7266ad53896946f280efd0bcbcf86cc0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7266ad53896946f280efd0bcbcf86cc0
+run_name: fortunate-mule-833
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756581309498
+status: 1
+tags: []
+user_id: krishnaik06

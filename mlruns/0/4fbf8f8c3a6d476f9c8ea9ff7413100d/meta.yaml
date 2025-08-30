@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4fbf8f8c3a6d476f9c8ea9ff7413100d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4fbf8f8c3a6d476f9c8ea9ff7413100d
+run_name: lyrical-zebra-229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756582616046
+status: 1
+tags: []
+user_id: krishnaik06

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d7d051ab71244e73b86210a78a49a497/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7d051ab71244e73b86210a78a49a497
+run_name: placid-koi-785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756583271169
+status: 1
+tags: []
+user_id: krishnaik06

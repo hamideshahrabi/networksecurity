@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7ebae0856e0642149f73f133461e539a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ebae0856e0642149f73f133461e539a
+run_name: dashing-gnat-934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756582959229
+status: 1
+tags: []
+user_id: krishnaik06
