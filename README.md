@@ -2,7 +2,7 @@
 
 Production‑ready FastAPI service and ML pipeline to detect phishing using network/URL features. The project includes data ingestion from MongoDB, validation, transformation, model training, experiment tracking with MLflow, and a REST API for training and batch predictions.
 
---- 
+---     
 
 ## Features
 - **End‑to‑end pipeline**: ingestion → validation → transformation → training → artifacts
@@ -219,4 +219,5 @@ docker run -d -p 8000:8000 --env-file .env $AWS_ECR_LOGIN_URI:latest
 
 ## License
 This project is licensed under the terms of the `LICENSE` file.
+
 
