@@ -4,7 +4,7 @@ Production‑ready FastAPI service and ML pipeline to detect phishing using netw
 
 ---     
 
-## Features
+## Features    
 - **End‑to‑end pipeline**: ingestion → validation → transformation → training → artifacts
 - **FastAPI service**: `/train` to run the pipeline, `/predict` to score CSVs
 - **Model packaging**: final `model.pkl` and `preprocessor.pkl` stored in `final_model/`
@@ -219,5 +219,6 @@ docker run -d -p 8000:8000 --env-file .env $AWS_ECR_LOGIN_URI:latest
 
 ## License
 This project is licensed under the terms of the `LICENSE` file.
+
 
 
