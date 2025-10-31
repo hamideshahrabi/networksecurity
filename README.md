@@ -10,7 +10,7 @@ Production‑ready FastAPI service and ML pipeline to detect phishing using netw
 - **Model packaging**: final `model.pkl` and `preprocessor.pkl` stored in `final_model/`
 - **Experiment tracking**: MLflow runs stored under `mlruns/`
 - **Artifacts versioning**: dated runs under `Artifacts/`
-- **Docker support**: containerize the API for deployment (ECR/EC2 ready)
+- **Docker support**: containerize the API for deployment (ECR/EC2 ready) 
 
 ---
 
@@ -219,6 +219,7 @@ docker run -d -p 8000:8000 --env-file .env $AWS_ECR_LOGIN_URI:latest
 
 ## License
 This project is licensed under the terms of the `LICENSE` file.
+
 
 
 
